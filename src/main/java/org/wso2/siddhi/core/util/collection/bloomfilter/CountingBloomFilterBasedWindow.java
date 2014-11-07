@@ -36,7 +36,7 @@ public class CountingBloomFilterBasedWindow implements SiddhiWindow {
 	}
 
 	public void add(ComplexEvent event) {
-		// TODO Auto-generated method stub
+		// Add Event
 
 	}
 
